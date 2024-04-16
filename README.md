@@ -23,17 +23,20 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## OUTPUT:
 ### WHOIS:
 http://www.whois.com/whois website to get detailed information about a domain name information including its owner, its registrar, date of registration, expiry, name server, owner's contact information, etc.
-![Screenshot 2024-03-26 082624](https://github.com/Jayamani25/InformationGathering/assets/85949888/292570b7-2c4d-46e9-a0ef-471a4553fdc5)
+![Screenshot 2024-03-26 082440](https://github.com/Aakashraj04/InformationGathering/assets/121117266/766b31b7-5379-418a-bf52-52138e2a652c)
+
 
 ### PING:
 ping command is available on Windows as well as on Linux OS
-![image](https://github.com/Jayamani25/InformationGathering/assets/85949888/35c09840-5718-47e0-8f46-aa4518724bc4)
+![ping](https://github.com/Aakashraj04/InformationGathering/assets/121117266/0c731238-d7bd-431b-86bd-a6d417a0626a)
+
 
 ### IP2LOCATION:
-![Screenshot 2024-03-11 223502](https://github.com/Jayamani25/InformationGathering/assets/85949888/984cb66b-59c6-4d0f-8d94-3c04582b52f7)
+![Screenshot 2024-03-26 084906](https://github.com/Aakashraj04/InformationGathering/assets/121117266/dbb4dc6a-3dd1-4f72-99ff-1771973b42ae)
+
 
 ### WEBARCHIEVE:
-![Screenshot 2024-03-11 224305](https://github.com/Jayamani25/InformationGathering/assets/85949888/a4f7994e-52ad-4a71-bb95-48168168d54e)
+![Screenshot 2024-03-26 085821](https://github.com/Aakashraj04/InformationGathering/assets/121117266/ffa00f25-9f56-492c-ac91-990dee2aca0c)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
