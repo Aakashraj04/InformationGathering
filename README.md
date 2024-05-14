@@ -25,19 +25,26 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 ## WHOIS:
-![output1](./1.png)
+![Screenshot 2024-03-26 083517](https://github.com/Aakashraj04/InformationGathering/assets/121117266/374f9649-08ae-4f90-b346-fd9c528ee9fd)
+
 ## IP2LOCATION:
-![output1](./2.png)
+![Screenshot 2024-03-26 084906](https://github.com/Aakashraj04/InformationGathering/assets/121117266/58f08ae4-cc10-4245-bd0b-10922788cb0b)
+
 ## PING:
-![output1](./3.png)
+![ping](https://github.com/Aakashraj04/InformationGathering/assets/121117266/b2ce220d-5da2-47b1-bec0-20f8460f0b38)
+
 ## WEB ARCHIVE:
-![output1](./4.png)
+![Screenshot 2024-03-26 085821](https://github.com/Aakashraj04/InformationGathering/assets/121117266/31151d73-98a1-4f60-a38a-9c0ff42728c2)
+
 ## NMAP:
-![output1](./5.png)
+![Screenshot 2024-05-14 155544](https://github.com/Aakashraj04/InformationGathering/assets/121117266/67cf319c-b298-4241-b71a-5aefb69f181c)
+
 ## WHATWEB:
-![output1](./6.png)
+![Screenshot 2024-05-14 155634](https://github.com/Aakashraj04/InformationGathering/assets/121117266/3caea51f-db08-4428-9095-83d1545e924d)
+
 ## TRACEROUTE:
-![output1](./7.png)
+![Screenshot 2024-05-14 155703](https://github.com/Aakashraj04/InformationGathering/assets/121117266/8a9c483e-d68b-4b93-b193-57447adb720a)
+
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
